@@ -5,4 +5,4 @@ python style.py --style examples/style/amano.jpg \
   --content-weight 1.5e1 \
   --checkpoint-iterations 500 \
   --batch-size 2
-  --allow-different-sizes
+  --allow-different-dimensions
